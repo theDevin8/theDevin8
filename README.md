@@ -1,15 +1,14 @@
-
 <p style="margin: auto" align="center">
-  <img width="1000" height= "200" alt="Devin Github Banner" src="https://github.com/theDevin8/devinbanner/blob/8093f8bab4afac6d97d90e0d7c2edd77017466aa/devinBanner.png">
+  <img width="1000" height="200" alt="Devin Github Banner" src="https://github.com/theDevin8/devinbanner/blob/8093f8bab4afac6d97d90e0d7c2edd77017466aa/devinBanner.png">
 </p>
 <hr/>
 <p align="center">
   <samp>
-    My name is Devin Stockton, and I am a passionate student pursuing a degree in Computer Science with a minor in Chemical Engineering at the esteemed University of Houston!
+    My name is Devin Stockton, and I am a passionate student pursuing a degree in Computer Science with a minor in Chemical Engineering at the esteemed <span style="color: red;">University of Houston</span>!
   </samp>
   <br></br>
   <samp>
-    I have a deep love for learning and continuously expanding my knowledge in various domains. If you are interested in discovering more about me and my journey, feel free to explore my website, where you can delve into my     experiences, projects, and aspirations. <a href = "https://devinstockton.netlify.app/" target="_blank"> Devin's Website! </a>
+    I have a deep love for learning and continuously expanding my knowledge in various domains. If you are interested in discovering more about me and my journey, feel free to explore my website, where you can delve into my experiences, projects, and aspirations. <a href="https://devinstockton.netlify.app/" target="_blank">Devin's Website!</a>
   </samp>
   <br></br>
   <samp>
