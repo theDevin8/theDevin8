@@ -12,6 +12,7 @@
   </samp>
   <br></br>
   <a href="https://devinstockton.netlify.app/" target="_blank">Devin's Website!</a>
+  <br></br>
   <samp>
     Together, let's embark on a quest for endless growth and knowledge!
   </samp>
