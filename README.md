@@ -15,5 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 <p style="margin: auto" align="center">
-  <img width="1000" alt="Johnny Github Banner" src="https://github.com/theDevin8/devinbanner/blob/f821e85334e94f290c17307ac63ede5783a92c42/devin-stockton.png">
+  <img width="1000" alt="Devin Github Banner" src="https://github.com/theDevin8/devinbanner/blob/f821e85334e94f290c17307ac63ede5783a92c42/devin-stockton.png">
 </p>
+<hr/>
+
