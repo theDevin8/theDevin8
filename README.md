@@ -8,8 +8,9 @@
   </samp>
   <br></br>
   <samp>
-    I have a deep love for learning and continuously expanding my knowledge in various domains. If you are interested in discovering more about me and my journey, feel free to explore my website, where you can delve into my experiences, projects, and aspirations. <a href="https://devinstockton.netlify.app/" target="_blank">Devin's Website!</a>
+    I have a deep love for learning and continuously expanding my knowledge in various domains. If you are interested in discovering more about me and my journey, feel free to explore my website, where you can delve into my experiences, projects, and aspirations.
   </samp>
+  <a href="https://devinstockton.netlify.app/" target="_blank">Devin's Website!</a>
   <br></br>
   <samp>
     Together, let's embark on a quest for endless growth and knowledge!
