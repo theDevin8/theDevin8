@@ -26,6 +26,6 @@
 
 <h3 align="left">Socials:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/devin stockton" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="devin stockton" height="30" width="40" /></a>
-<a href="https://instagram.com/devinssxx" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="devinssxx" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/devin-stockton-25846a252/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="devin stockton" height="30" width="40" /></a>
+<a href="https://www.instagram.com/devinssxx/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="devinssxx" height="30" width="40" /></a>
 </p>
