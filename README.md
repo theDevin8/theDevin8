@@ -4,7 +4,7 @@
 <hr/>
 <p align="center">
   <samp>
-    My name is Devin Stockton, and I am a passionate student pursuing a degree in Computer Science with a minor in Chemical Engineering at the esteemed **University of Houston**!
+    My name is Devin Stockton, and I am a passionate student pursuing a degree in Computer Science with a minor in Chemical Engineering at the University of Houston!
   </samp>
   <br></br>
   <samp>
